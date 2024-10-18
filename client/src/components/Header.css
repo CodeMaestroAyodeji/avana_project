@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .header .logo a {
+    text-decoration: none;
+  }
+  
+  .header .logo h1 {
+    margin: 0;
+    color: white;
+  }
+  
+  .header nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .header nav ul li {
+    margin: 0;
+  }
+  
+  .header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .header nav ul li a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,23 @@
+.default-page-container {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .default-page-container h1 {
+    font-size: 3rem;
+    color: #28a745;
+  }
+  
+  .default-page-container p {
+    font-size: 1.25rem;
+    margin-top: 10px;
+  }
+  
+  .default-page-container p:first-of-type {
+    color: #6c757d;
+  }
+  
+  .default-page-container p:last-of-type {
+    color: #17a2b8;
+  }
+  
